@@ -1,5 +1,3 @@
-# GartenDoc
-Ausgabe enthält Pflanzenart, Gesundheitszustand, mögliche Krankheiten/Schädlinge und konkrete Maßnahmen.
 diff --git a/README.md b/README.md
 index d775ebd4ce9a2ac4ba7d0a536c3c44527c8bc13d..57bbea8cec8bc70d23181db339411920a4b8c326 100644
 --- a/README.md
